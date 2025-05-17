@@ -10,32 +10,6 @@
 * **Performance Evaluation**: Assesses model accuracy using metrics like RMSE and MAE.
 * **User Interface**: Provides a user-friendly interface for inputting stock symbols and viewing predictions.
 
-## 🛠️ Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/VinayakG311/Trade-Mind.git
-   cd Trade-Mind
-   ```
-
-
-
-2. **Create a Virtual Environment** (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-
-
-3. **Install Dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 
 
 ## 🔑 API Keys
